@@ -1,0 +1,9 @@
+@font-face {
+  font-family: asFont;
+  src: url(Adult-Swim-Font.ttf);
+}
+
+.container {
+  text-align: center;
+  font-family: asFont;
+}
