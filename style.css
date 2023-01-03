@@ -3,6 +3,10 @@
   src: url(Adult-Swim-Font.ttf);
 }
 
+body {
+ text-align: center;
+  font-family: asFont;
+}
 .container {
   text-align: center;
   font-family: asFont;
